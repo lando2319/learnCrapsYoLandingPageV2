@@ -21,4 +21,4 @@ Once a Point is established you have the option of add Odds behind the Passline.
 - Point is 5 or 9 Odds pay 3 for every 2
 - Point is 4 or 10 Odds pay 2 for every 1
 
-With a Point established, rolling the Point wins, rolling seven loses.
+With a Point established, rolling the Point wins, rolling Seven loses.

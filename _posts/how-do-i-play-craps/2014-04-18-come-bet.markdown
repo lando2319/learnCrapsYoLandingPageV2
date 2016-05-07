@@ -15,6 +15,15 @@ tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
 ---
+Before Come Bet Has Traveled
+
 - Wins on Seven or Eleven
 - Loses on Two, Three, or Twelve
 - Any other number and bet travels to number rolled.
+
+Once a Come Bet has traveled to a number you have the option of adding Odds. Odds pay "True Odds".
+
+- Bet on 6 or 8 Odds pay 5 for every 6
+- Bet on 5 or 9 Odds pay 2 for every 3
+- Bet on 4 or 10 Odds pay 1 for every 2
+
