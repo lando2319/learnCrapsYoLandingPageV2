@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 payout: Marcel Newman
 categories:
 - how-do-i-play-craps
-img: passline4.png
+img: passline1.png
 thumb: thumb02.jpg
 carousel:
 - passLine1.png

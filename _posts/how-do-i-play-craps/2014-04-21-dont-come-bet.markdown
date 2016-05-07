@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - how-do-i-play-craps
-img: dCBet4.png
+img: dCBet1.png
 carousel:
 - dCBet1.png
 - dCBet2.png

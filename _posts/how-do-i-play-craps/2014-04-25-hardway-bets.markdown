@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - how-do-i-play-craps
-img: hardway4.png
+img: hardway1.png
 thumb: thumb02.jpg
 carousel:
 - hardway1.png
