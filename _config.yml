@@ -56,8 +56,8 @@ members:
     text: Once a Craps Dealer, now an iOS Develoer... Worlds collide
     img: team01.jpg
     social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
+      - title: globe #use for email address
+        url: http://mikepland.com
       - title: twitter
         url: http://twitter.com/mikepland
     
