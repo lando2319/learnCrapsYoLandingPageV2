@@ -1,0 +1,24 @@
+---
+layout: project
+title:  "Field Bet"
+date:   2014-04-25 16:54:46
+author: Marcel Newman
+categories:
+- how-do-i-play-craps
+img: portfolio_08.jpg
+thumb: thumb02.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: Flat, UI, Development
+client: Wonder Corp.
+website: http://blacktie.co
+---
+Wins on Field Numbers:2,3,4,9,10,11,12, Loses on: 5,6,7,8
+
+- 12 pays triple
+- 2 pays double
+- 3,4,9,10,11 pays even money
+
+One roll bet
