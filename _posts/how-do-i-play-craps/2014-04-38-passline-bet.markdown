@@ -8,9 +8,9 @@ categories:
 img: portfolio_10.jpg
 thumb: thumb02.jpg
 carousel:
-- gameImage.png
-- single02.jpg
-- single03.jpg
+- passLine1.png
+- passLine2.png
+- passLine3.png
 tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co

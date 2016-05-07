@@ -7,9 +7,9 @@ categories:
 - how-do-i-play-craps
 img: portfolio_01.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- dCBet1.png
+- dCBet2.png
+- dCBet3.png
 tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
