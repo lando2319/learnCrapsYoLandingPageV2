@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - how-do-i-play-craps
-img: portfolio_01.jpg
+img: layBet4.png
 carousel:
 - layBet1.png
 - layBet2.png
