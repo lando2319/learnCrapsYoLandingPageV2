@@ -15,4 +15,6 @@ tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
 ---
-Wins on Seven or Eleven, Loses on Two, Three, or Twelve. Any other number and bet travels to number rolled.
+- Wins on Seven or Eleven
+- Loses on Two, Three, or Twelve
+- Any other number and bet travels to number rolled.
