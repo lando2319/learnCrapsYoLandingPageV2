@@ -1,3 +1,8 @@
+Landing Page for ![Learn Craps Yo](http://learncrapsyo.com)
+remaining readme from Theme creator
+
+---
+
 Solid. A Bootstrap theme for Jekyll.
 ============
 ![Screenshot](https://st4ple.github.io/solid-jekyll/assets/img/browser.png)
