@@ -4,7 +4,7 @@ title:  "YOUR PROJECT NAME"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
-- project
+- how-do-i-play-craps
 img: portfolio_01.jpg
 carousel:
 - single01.jpg

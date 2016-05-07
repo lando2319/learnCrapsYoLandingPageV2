@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "HERE BETA"
+title:  "Passline Bet"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+payout: Marcel Newman
 categories:
 - how-do-i-play-craps
 img: portfolio_10.jpg
@@ -15,8 +15,6 @@ tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+During the Come Out Roll, the Pass Line, wins on Seven or Eleven, Loses on Two, Three, or Twelve. Any other number becomes the Point.
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Once a Point is established, rolling the Point wins, rolling Seven loses.
