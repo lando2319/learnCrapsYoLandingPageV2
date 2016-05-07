@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "HERE"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
@@ -8,7 +8,7 @@ categories:
 img: portfolio_10.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
+- gameImage.png
 - single02.jpg
 - single03.jpg
 tagged: Flat, UI, Development
