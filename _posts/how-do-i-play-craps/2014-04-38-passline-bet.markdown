@@ -8,9 +8,9 @@ categories:
 img: passline4.png
 thumb: thumb02.jpg
 carousel:
-- passLine1.png
-- passLine2.png
-- passLine3.png
+- passline1.png
+- passline2.png
+- passline3.png
 tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co

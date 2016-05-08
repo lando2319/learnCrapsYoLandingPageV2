@@ -2,10 +2,9 @@
 <div class="container">
     <div class="row centered">
         {% for img in page.carousel %}
-        <div class="col-md-4">
+        <div class="col-md-4 portfolioAdjusted">
             <img src="{{ "/assets/img/project/carousel/" | prepend: site.baseurl }}{{ img }}" alt="">
         </div>
-        <br>
         {% endfor %}
     </div>		 				
 </div><! --/container -->
