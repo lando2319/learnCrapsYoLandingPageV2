@@ -1,4 +1,5 @@
-Landing Page for ![Learn Craps Yo](http://craps.education)
+# Landing Page for [Learn Craps Yo](http://craps.education)
+
 ![App-Screenshot](http://craps.education/assets/img/iPhoneImages/iPhonePassLineComeOutRoll.png)
 --- 
 
