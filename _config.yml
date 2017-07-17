@@ -4,8 +4,8 @@
 title: Learn Craps Yo
 description: "how do I play craps, learn craps yo, iOS app"
 analytics: UA-13302760-3 #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
-url: "http://craps.education"
+baseurl: "http://craps.education" #important: start with /
+url: ""
 
 # Build settings
 markdown: kramdown
