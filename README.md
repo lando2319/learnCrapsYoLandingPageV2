@@ -1,4 +1,7 @@
-Landing Page for ![Learn Craps Yo](http://learncrapsyo.com)
+Landing Page for ![Learn Craps Yo](http://craps.education)
+![App-Screenshot](http://craps.education/assets/img/iPhoneImages/iPhonePassLineComeOutRoll.png)
+--- 
+
 remaining readme from Theme creator
 
 ---
