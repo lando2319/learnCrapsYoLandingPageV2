@@ -15,6 +15,10 @@ tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
 ---
+<br>
+<div class="videowrapper">
+    <iframe src="https://www.youtube.com/embed/FzaalzbDW6Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 During the Come Out Roll, the Don't Pass Line, wins on Two or Three, Loses on Seven, or Eleven, Twelve is a Push. Any other number becomes the Point.
 
 Once a Point is established, rolling the Point loses, rolling Seven wins.
