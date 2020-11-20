@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What's New
-include_in_header: false
+title: How Do I Play Craps?
+include_in_header: true
 ---
 
 # Changelog
