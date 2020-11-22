@@ -2,7 +2,6 @@
 layout: page
 title: Privacy Policy
 include_in_header: true
-permalink: /privacy-policy/
 ---
 
 <h1>Privacy Policy</h1>

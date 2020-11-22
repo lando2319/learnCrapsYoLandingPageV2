@@ -4,6 +4,87 @@ title: How Do I Play Craps?
 include_in_header: true
 ---
 
+# BETS
+## Line Bets
+- [Passline Bet](/pass-line-bet)
+- [Don't Pass Bet](/dont-pass-bet)
+
+## Come Bets
+- [Come Bet](/come-bet)
+- [Don't Come Bet (DC)](/dont-come-bet)
+
+## Field Bet
+- [Field Bet](/field-bet)
+
+## Place Bets
+- [Place Bet On Four](/place-bet-on-four-buy)
+- [Place Bet On Five](/place-bet-on-five)
+- [Place Bet On Six](/place-bet-on-six)
+- [Place Bet On Eight](/place-bet-on-eight)
+- [Place Bet On Nine](/place-bet-on-nine)
+- [Place Bet On Ten](/place-bet-on-ten-buy)
+
+## Lay Bets
+- [Lay Bet On Four](/lay-bet-on-four)
+- [Lay Bet On Five](/lay-bet-on-five)
+- [Lay Bet On Six](/lay-bet-on-six)
+- [Lay Bet On Eight](/lay-bet-on-eight)
+- [Lay Bet On Nine](/lay-bet-on-nine)
+- [Lay Bet On Ten](/lay-bet-on-ten)
+
+## Hardway Bets PROP BET
+- [Hard Four Bet](/hardway-hard-four-bet)
+- [Hard Six Bet](/hardway-hard-six-bet)
+- [Hard Eight Bet](/hardway-hard-eight-bet)
+- [Hard Ten Bet](/hardway-hard-ten-bet)
+
+## General Prop Bets
+- [Aces Bet](/prop-bet-aces)
+- [Ace Deuce Bet](/prop-bet-ace-deuce)
+- [Yo Eleven Bet](/prop-bet-yo-eleven)
+- [Twelve Bet](/prop-bet-twelve)
+
+- [Any Seven Bet](/prop-bet-any-seven)
+- [High Low Bet](/prop-bet-high-low)
+- [Crap Check](/prop-bet-crap-check)
+- [Three Way Craps](/prop-bet-three-way-craps)
+- [CE Bet](/prop-bet-craps-eleven-c-and-e)
+
+- [Horn Bet](/prop-bet-horn)
+- [Horn High Aces Bet](/prop-bet-horn-high-aces)
+- [Horn High Ace Deuce Bet](/prop-bet-horn-high-ace-deuce)
+- [Horn High Yo Eleven Bet](/prop-bet-horn-high-yo-eleven)
+- [Horn High Twevele Bet](/prop-bet-horn-high-twelve)
+
+- [World Bet](/prop-bet-world)
+
+# Hop Bets
+- [3-1 Hopping](/prop-bet-three-one-hopping) []: # "check nameing and log structure of top hits"
+- [Hard Four Hopping](/prop-bet-hard-four-hopping)
+
+- [4-1 Hopping](/prop-bet-four-one-hopping)
+- [3-2 Hopping](/prop-bet-three-two-hopping)
+
+- [5-1 Hopping](/prop-bet-five-one-hopping)
+- [Hard Six Hopping](/prop-bet-hard-six-hopping)
+- [4-2 Hopping](/prop-bet-four-two-hopping)
+
+- [6-1 Hopping](/prop-bet-six-one-hopping)
+- [5-2 Hopping](/prop-bet-five-two-hopping)
+- [4-3 Hopping](/prop-bet-four-three-hopping)
+
+- [6-2 Hopping](/prop-bet-six-two-hopping)
+- [Hard Eight Hopping](/prop-bet-hard-eight-hopping)
+- [5-3 Hopping](/prop-bet-five-three-hopping)
+
+- [6-3 Hopping](/prop-bet-six-three-hopping)
+- [5-4 Hopping](/prop-bet-five-four-hopping)
+
+- [6-4 Hopping](/prop-bet-six-four-hopping)
+- [Hard Ten Hopping](/prop-bet-hard-ten-hopping)
+
+<br>
+
 # Changelog
 Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
 
