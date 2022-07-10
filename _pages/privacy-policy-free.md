@@ -10,7 +10,7 @@ include_in_header: false
 <p>Effective date: May 4, 2022</p>
 
 
-<p>Craps Education, LLC ("us", "we", or "our") operates the Learn Craps Yo FREE mobile application (the "Service").</p>
+<p>Craps Education, LLC ("us", "we", or "our") operates the Learn Craps mobile application (the "Service").</p>
 
 <p>We do not collect user data</p>
 
