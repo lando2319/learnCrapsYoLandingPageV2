@@ -1,3 +1,15 @@
+# MY NOTES
+
+`jekyll serve`
+
+to install dep
+
+`bundle install`
+
+deleting Gemfile.lock and reinstalling will often fix dep issues
+
+Below is README for the theme
+
 # Automatic App Landing Page
 **Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
 

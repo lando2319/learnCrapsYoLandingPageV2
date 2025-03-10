@@ -46,6 +46,20 @@ features                                  :
     description                           : Pass Line and C&E are FREE, one time fee to unlock all the bets. Try it out on iOS.
     fontawesome_icon_name                 : mobile
 
+features_crapsai                          :
+
+  - title                                 : Handmade
+    description                           : Built the old way. Handmade code from top to bottom. Sustainably sourced.
+    fontawesome_icon_name                 : dice
+    
+  - title                                 : Authentic Experience
+    description                           : Brought to you by a former Craps Dealer, I provide full rules and odds as well as the nuance of common scenarios. Other apps pay dev shops. 
+    fontawesome_icon_name                 : coins
+
+  - title                                 : Free Open Beta
+    description                           : Craps AI is in Open Beta, Free to download
+    fontawesome_icon_name                 : mobile
+
   # - title                                 : Automatic Icon and Metadata
   #   description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
   #   fontawesome_icon_name                 : sync
