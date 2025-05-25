@@ -1,6 +1,6 @@
 # MY NOTES
 
-`jekyll serve`
+`bundle exec jekyll serve`
 
 to install dep
 
