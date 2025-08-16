@@ -12,7 +12,33 @@ include_in_header: false
 
 <p>Craps Education, LLC ("us", "we", or "our") operates the Learn Craps mobile application (the "Service").</p>
 
-<p>We do not collect user data</p>
+'Ask Dealer' feature is using [CrapsAI](https://craps.education/ai) to provide answers. As part of the request we include the following info
+
+ - State of the Game (Come Out Roll, Point of)
+ - Current bets with the amount (5 on Pass Line)
+ - Last Roll (Last Roll 7 as 4-3)
+ - Last Roll winning and losing bets (-2 on C&E, lost)
+
+Here is an example:
+
+```
+    QUESTION: Does my Pass Line win on Seven
+
+    ```game_state
+    Point is 5
+    
+    Current Bets:
+    5 on Pass Line
+    5 on Field
+    5 on Come Bet on Nine
+    --
+    
+    Last Roll 9 as 6-3
+    5 on Field, won
+    ```
+```
+
+We collect crash reports and other diagnostic data in order to fix bugs and improve the application.
 
 <h2>Changes To This Privacy Policy</h2>
 <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
